@@ -1,0 +1,9 @@
+type,isUsable,attack,attack_range,defence,recovery,speed,duribility,gold
+sword,1,10,2,0,0,0,10,15
+portion,1,0,0,0,20,0,3,5
+gun,1,25,5,0,0,0,5,50
+defencer,1,0,0,8,5,0,10,15
+shoe,1,3,0,2,0,2,10,5
+supershoe,1,5,0,3,0,5,5,40
+arrow,1,2,5,0,0,0,10,15
+shine,1,500,20,0,0,0,1,500

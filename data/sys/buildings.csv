@@ -1,0 +1,7 @@
+type,hp,attack,attack_range,capacity,food_production,energy_production,cost,turn
+spawner,500,0,0,0,0,0,0,0
+energy_pool,100,0,0,0,0,5,100,3
+farm,100,0,0,0,5,0,100,3
+cave,100,0,0,100,0,0,50,5
+tower,100,30,5,0,0,0,50,2
+super_tower,150,15,10,0,0,0,150,5

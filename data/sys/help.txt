@@ -1,0 +1,25 @@
+                    REVENGE
+Menu Page:
+UP: Select UPPER            RIGHT: Select RIGHT (Switch AI / Multiplayer)
+DOWN: Select DOWN           LEFT: Select LEFT (Switch AI / Multiplayer)
+ENTER: Select
+
+In Game:
+1: Construction             M: Open the in-game menu
+2: Attack                   O: Open Shop
+3: Building Attack          W: Targeting move UP / Select UP
+4: Destroy                  A: Targeting move LEFT  / Select DOWN
+5: Movement                 S: Targeting move DOWN
+6: Equipment                D: Targeting move RIGHT
+UP: Focusing move UP        DOWN: Focusing move DOWN
+LEFT: Focusing move LEFT    RIGHT: Focusing move RIGHT
+Z: Confirm                  X: Cancel
+
+Help:
+X: Return
+
+Shop:
+W: Select UP                S: Select DOWN
+A: Select LEFT              D: Select RIGHT
+
+                Game made by 170025298
